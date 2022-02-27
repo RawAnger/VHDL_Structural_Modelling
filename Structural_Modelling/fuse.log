@@ -1,0 +1,26 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/205_HW/HW_3/Structural_Modelling_tb_isim_beh.exe -prj D:/205_HW/HW_3/Structural_Modelling_tb_beh.prj work.Structural_Modelling_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/205_HW/HW_3/OR_gate.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_3/NOT_gate.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_3/AND_gate.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_3/Structural_Modelling.vhd" into library work
+Parsing VHDL file "D:/205_HW/HW_3/Structural_Modelling_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity NOT_gate [not_gate_default]
+Compiling architecture and_4 of entity AND_gate4 [and_gate4_default]
+Compiling architecture and_3 of entity AND_gate3 [and_gate3_default]
+Compiling architecture behavioral of entity OR_gate [or_gate_default]
+Compiling architecture structure of entity Structural_Modelling [structural_modelling_default]
+Compiling architecture tb of entity structural_modelling_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 13 VHDL Units
+Built simulation executable D:/205_HW/HW_3/Structural_Modelling_tb_isim_beh.exe
+Fuse Memory Usage: 30724 KB
+Fuse CPU Usage: 358 ms

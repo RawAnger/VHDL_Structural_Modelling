@@ -1,0 +1,36 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/205_HW/HW_3/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to D:/205_HW/HW_3/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/205_HW/HW_3/AND_gate.vhd" in Library work.
+Entity <and_gate> compiled.
+ERROR:HDLParsers:3621 - "D:/205_HW/HW_3/AND_gate.vhd" Line 12. The basic identifier AND3_ is illegal because it ends with an underline character (VHDL IEEE 1076-2000 LRM 13.3.1).
+ERROR:HDLParsers:164 - "D:/205_HW/HW_3/AND_gate.vhd" Line 12. parse error, unexpected IS, expecting IDENTIFIER
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> 
+
+Total memory usage is 4468172 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

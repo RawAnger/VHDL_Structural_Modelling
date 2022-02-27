@@ -1,0 +1,44 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/205_HW/HW_3/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> Parameter xsthdpdir set to D:/205_HW/HW_3/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/205_HW/HW_3/AND_gate.vhd" in Library work.
+Entity <and_gate> compiled.
+ERROR:HDLParsers:3010 - "D:/205_HW/HW_3/AND_gate.vhd" Line 12. Entity AND3_g does not exist.
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. Undefined symbol 'OA'.
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. Undefined symbol 'INA1'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. INA1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. Undefined symbol 'INA2'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. INA2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. Undefined symbol 'INA3'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. INA3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. Undefined symbol 'INA4'.
+ERROR:HDLParsers:1209 - "D:/205_HW/HW_3/AND_gate.vhd" Line 14. INA4: Undefined symbol (last report in this block)
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> 
+
+Total memory usage is 4468200 kilobytes
+
+Number of errors   :   10 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

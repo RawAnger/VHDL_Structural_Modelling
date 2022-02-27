@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/205_HW/HW_3/Structural_Modelling_tb_isim_beh.exe" -prj "D:/205_HW/HW_3/Structural_Modelling_tb_beh.prj" "work.Structural_Modelling_tb" 

@@ -1,0 +1,23 @@
+V3 19
+FL D:/205_HW/HW_3/AND_gate.vhd 2021/12/13.05:19:29 P.20131013
+EN work/AND_gate4 1639362003 FL D:/205_HW/HW_3/AND_gate.vhd PB ieee/std_logic_1164 1381692176
+AR work/AND_gate4/and_4 1639362004 \
+      FL D:/205_HW/HW_3/AND_gate.vhd EN work/AND_gate4 1639362003
+EN work/AND_gate3 1639362005 \
+      FL D:/205_HW/HW_3/AND_gate.vhd PB ieee/std_logic_1164 1381692176
+AR work/AND_gate3/and_3 1639362006 \
+      FL D:/205_HW/HW_3/AND_gate.vhd EN work/AND_gate3 1639362005
+FL D:/205_HW/HW_3/NOT_gate.vhd 2021/12/10.23:46:20 P.20131013
+EN work/NOT_gate 1639362001 FL D:/205_HW/HW_3/NOT_gate.vhd PB ieee/std_logic_1164 1381692176
+AR work/NOT_gate/Behavioral 1639362002 \
+      FL D:/205_HW/HW_3/NOT_gate.vhd EN work/NOT_gate 1639362001
+FL D:/205_HW/HW_3/OR_gate.vhd 2021/12/12.04:51:28 P.20131013
+EN work/OR_gate 1639362007 FL D:/205_HW/HW_3/OR_gate.vhd PB ieee/std_logic_1164 1381692176
+AR work/OR_gate/Behavioral 1639362008 \
+      FL D:/205_HW/HW_3/OR_gate.vhd EN work/OR_gate 1639362007
+FL D:/205_HW/HW_3/Structural_Modelling.vhd 2021/12/13.05:19:50 P.20131013
+EN work/Structural_Modelling 1639362009 \
+      FL D:/205_HW/HW_3/Structural_Modelling.vhd PB ieee/std_logic_1164 1381692176
+AR work/Structural_Modelling/Structure 1639362010 \
+      FL D:/205_HW/HW_3/Structural_Modelling.vhd EN work/Structural_Modelling 1639362009 \
+      CP NOT_gate CP AND_gate4 CP AND_gate3 CP OR_gate

@@ -1,0 +1,4 @@
+vhdl work "OR_gate.vhd"
+vhdl work "NOT_gate.vhd"
+vhdl work "AND_gate.vhd"
+vhdl work "Structural_Modelling.vhd"

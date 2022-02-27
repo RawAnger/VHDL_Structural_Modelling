@@ -1,0 +1,5 @@
+vhdl isim_temp "OR_gate.vhd"
+vhdl isim_temp "NOT_gate.vhd"
+vhdl isim_temp "AND_gate.vhd"
+vhdl isim_temp "Structural_Modelling.vhd"
+vhdl isim_temp "Structural_Modelling_tb.vhd"

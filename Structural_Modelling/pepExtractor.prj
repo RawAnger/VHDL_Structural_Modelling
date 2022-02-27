@@ -1,0 +1,4 @@
+work	"AND_gate.vhd"
+work	"NOT_gate.vhd"
+work	"OR_gate.vhd"
+work	"Structural_Modelling.vhd"

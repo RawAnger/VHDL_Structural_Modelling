@@ -1,0 +1,30 @@
+Command line:
+   Structural_Modelling_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53571
+
+Mon Dec 13 06:02:30 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.04 Meg
+
+ Total Signals          : 54
+ Total Nets             : 15
+ Total Signal Drivers   : 15
+ Total Blocks           : 13
+ Total Primitive Blocks : 11
+ Total Processes        : 11
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 375
+Total Line Count : 70
+Total Line Count : 70
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 4992.75 Meg
+
+Mon Dec 13 06:11:25 2021
+

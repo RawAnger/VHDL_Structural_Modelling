@@ -1,0 +1,2 @@
+vhdl work "NOT_gate.vhd"
+vhdl work "NOT_gate_tb.vhd"

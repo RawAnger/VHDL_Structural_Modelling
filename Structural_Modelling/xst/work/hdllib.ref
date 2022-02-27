@@ -1,0 +1,17 @@
+EN and_gate3 NULL D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl15 1639362005
+EN and_gate4 NULL D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl13 1639362003
+AR not_gate behavioral D:/205_HW/HW_3/NOT_gate.vhd sub00/vhpl03 1639362002
+EN not_gate NULL D:/205_HW/HW_3/NOT_gate.vhd sub00/vhpl02 1639362001
+AR and_gate and_3 D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl08 1639361897
+AR and_gate and_4 D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl07 1639361895
+AR and_gate behavioral D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl01 1639271894
+EN structural_modelling NULL D:/205_HW/HW_3/Structural_Modelling.vhd sub00/vhpl09 1639362009
+AR and_gate and_gate D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl06 1639272974
+AR structural_modelling structure D:/205_HW/HW_3/Structural_Modelling.vhd sub00/vhpl10 1639362010
+AR and4 behavioral D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl05 1639272861
+AR or_gate behavioral D:/205_HW/HW_3/OR_gate.vhd sub00/vhpl12 1639362008
+AR and_gate4 and_4 D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl14 1639362004
+AR and_gate3 and_3 D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl16 1639362006
+EN or_gate NULL D:/205_HW/HW_3/OR_gate.vhd sub00/vhpl11 1639362007
+EN and4 NULL D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl04 1639272860
+EN and_gate NULL D:/205_HW/HW_3/AND_gate.vhd sub00/vhpl00 1639361896
